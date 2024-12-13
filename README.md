@@ -1,36 +1,70 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# GDG NIET Hackathon Project
 
-## Getting Started
+Welcome to the GDG NIET Hackathon Project! This repository contains the source code and documentation for our hackathon project.
 
-First, run the development server:
+## Project Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project was developed during the GDG NIET Hackathon. The goal of the project is to [briefly describe the project's goal]. The project is built using [list of technologies used].
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Feature 1: [Description of feature 1]
+- Feature 2: [Description of feature 2]
+- Feature 3: [Description of feature 3]
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Installation
 
-## Learn More
+To get a local copy up and running, follow these simple steps:
 
-To learn more about Next.js, take a look at the following resources:
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/ashishk15678/gdg-niet.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd gdg-niet
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Run the project:
+   ```sh
+   npm run dev
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Usage
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+[Provide instructions and examples on how to use the project]
 
-## Deploy on Vercel
+## Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contributors
+
+Thanks to these wonderful people who have contributed to the project:
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+    <tr>
+        <td><a href="https://github.com/ashishk15678"><img src="https://avatars.githubusercontent.com/ashishk15678" width="50" height="50" style="border-radius: 50%;"></a></td> 
+        <td><a href="https://github.com/DwizSharma"><img src="https://avatars.githubusercontent.com/DwizSharma" width="50" height="50" style="border-radius: 50%;"></a></td> 
+    </tr>
+        <tr>
+        <td><a href="https://github.com/HelloDear14"><img src="https://avatars.githubusercontent.com/HelloDear14" width="50" height="50" style="border-radius: 50%;"></a></td> 
+        <td><a href="https://github.com/Pragati-30"><img src="https://avatars.githubusercontent.com/Pragati-30" width="50" height="50" style="border-radius: 50%;"></a></td> 
+    </tr>
+</table>
