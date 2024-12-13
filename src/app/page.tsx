@@ -27,7 +27,7 @@ export default function App() {
           </Link>
         </p>
         <p>
-          <Link href={"https://github.com/pragati-30"}>Pragati</Link>
+          <Link href={"https://instagram.com/believer_9895"}>Pragati</Link>
         </p>
       </div>
 
